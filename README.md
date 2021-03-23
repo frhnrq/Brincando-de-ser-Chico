@@ -1,4 +1,4 @@
 # Projeto1
--Equipe Wano- ALICE FORTES PEREIRA, ARTHUR ANTUNES RANGEL DA SILVA, ATYLA FREIRE TORRES, FERNANDO HENRIQUE SOUSA CAMPOS, LUÍS GUILHERME DA SILVA,RAFAEL QUEIROZ MONTEIRO.
+-Equipe Wano- Alice Fortes Pereira, Arthur Antunes Rangel da Silva, Atyla Freire Torres, Fernando Henrique Sousa Campos, Luís Guilherme da Silva, Rafael Queiroz Monteiro.
 -Jogo "Brincando de ser Chico".
 -Clientes: Bolsa MAUC: Thaina da Silva Mota (Bolsista),Saulo Moreno Rocha(Orientador).
